@@ -1,1 +1,2 @@
 # odin-recipes
+   This is a basic recipe project that has a home page and 3 recipe pages that all link back to the home page. The skills that ive demonstrated in this project include, creating the proper files and folders for a project, using git correctly, reinforcing my knowledge on basic HTML stucture, elements, elements, and attributes.
